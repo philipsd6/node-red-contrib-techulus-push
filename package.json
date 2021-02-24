@@ -1,0 +1,30 @@
+{
+    "name": "node-red-contrib-techulus-push",
+    "version": "1.0.0",
+    "description": "A Techulus Push API wrapper for Node-RED",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/philipsd6/node-red-contrib-techulus-push.git"
+    },
+    "license": "MIT",
+    "keywords": [
+        "node-red",
+        "techulus push",
+        "notification",
+        "push notification"
+    ],
+    "node-red": {
+        "nodes": {
+            "techulus-push": "techulus_push.js"
+        }
+    },
+    "author": {
+        "name": "Philip Douglass",
+        "email": "philip@philipdoulass.com",
+        "url": "https://philipdouglass.com"
+    },
+    "bugs": {
+        "url": "https://github.com/philipsd6/node-red-contrib-techulus-push/issues"
+    },
+    "homepage": "https://github.com/philipsd6/node-red-contrib-techulus-push#readme"
+}
